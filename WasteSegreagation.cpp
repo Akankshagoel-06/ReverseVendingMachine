@@ -109,6 +109,5 @@ lcd.clear();
     digitalWrite(ledPin2, LOW);
      digitalWrite(buzz2, LOW);
   }
-  
-   } 
+  } 
    
